@@ -1,1 +1,2 @@
+*.war filter=lfs diff=lfs merge=lfs -text
 repositorio.war filter=lfs diff=lfs merge=lfs -text
